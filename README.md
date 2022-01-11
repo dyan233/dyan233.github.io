@@ -1,4 +1,5 @@
 [About](https://dyan233.github.io/about)
+[CV](https://dyan233.github.io/CV)
 
 ## Welcome to GitHub Pages
 
