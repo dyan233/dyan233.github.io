@@ -9,3 +9,4 @@
 
 Doris Yan, a PhD candidate in [Mathematics at University of California, Irvine](https://www.math.uci.edu/). 
 
+![by Amber & Nhi](logo_l.jpg)
