@@ -3,9 +3,13 @@ layout: page
 title: "CV"
 permalink: /CV/
 -->
+[**Home**](https://dyan233.github.io)&nbsp;&nbsp;&nbsp;
+[**CV**](https://dyan233.github.io/CV)&nbsp;&nbsp;&nbsp;
+[**Teaching**](https://dyan233.github.io/teaching)&nbsp;&nbsp;&nbsp;
+[**Gallery**](https://dyan233.github.io/gallery)&nbsp;&nbsp;&nbsp;
 
 ## CV 
 
 a test again
 
-[Homepage](https://dyan233.github.io/)
+
