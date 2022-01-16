@@ -5,8 +5,11 @@
 
 
 
-# About me
+
+# About me 
 
 Doris Yan, a PhD candidate in [Mathematics at University of California, Irvine](https://www.math.uci.edu/). 
 
-![by Amber & Nhi](/assets/logo_l.JPG)
+
+<img src="/images/logo_l.JPG" width="200">
+[by Amber & Nhi, 2019]
