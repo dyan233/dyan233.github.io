@@ -12,4 +12,5 @@ Doris Yan, a PhD candidate in [Mathematics at University of California, Irvine](
 
 
 <img src="/images/logo_l.JPG" width="200">
+
 [by Amber & Nhi, 2019]
