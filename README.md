@@ -12,6 +12,6 @@
 
 # About me 
 
-<img align="right" width="200" src="/images/logo_l.JPG" title="Optional title">
+<img align="right" width="30%" src="/images/logo_l.JPG" title="Optional title">
 Doris Yan, a PhD candidate in [Mathematics at University of California, Irvine](https://www.math.uci.edu/). 
 
