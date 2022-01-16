@@ -3,10 +3,15 @@ layout: page
 title: "CV"
 permalink: /CV/
 -->
-[**Home**](https://dyan233.github.io)&nbsp;&nbsp;&nbsp;
-[**CV**](https://dyan233.github.io/CV)&nbsp;&nbsp;&nbsp;
-[**Teaching**](https://dyan233.github.io/teaching)&nbsp;&nbsp;&nbsp;
-[**Gallery**](https://dyan233.github.io/gallery)&nbsp;&nbsp;&nbsp;
+<p align="center"> 
+    <a href="https://dyan233.github.io">Home</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://dyan233.github.io/CV">CV</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://dyan233.github.io/teaching">Teaching</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://dyan233.github.io/gallery">Gallery</a>
+</p>
 
 ## CV 
 
