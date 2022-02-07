@@ -15,6 +15,7 @@ permalink: /teaching/
 ## Teaching Experiences
 
 - 2022 Winter: Math 105B Numerical Analysis
+- 2021 Fall: Math 105A Numerical Linear Algebra
 - 2018 Winter: Math 2D Multivariable Calculus 
 - 2018 Spring: 
 
