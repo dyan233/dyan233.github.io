@@ -14,6 +14,7 @@ permalink: /teaching/
 
 ## Teaching Experiences
 
+- 2022 Spring: Math 115 Math modeling
 - 2022 Winter: Math 105B Numerical Analysis
 - 2021 Fall: Math 105A Numerical Linear Algebra
 - 2021 Summer: Math 105A Numerical Linear Algebra
